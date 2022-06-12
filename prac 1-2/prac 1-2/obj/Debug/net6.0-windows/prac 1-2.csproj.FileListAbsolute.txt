@@ -1,0 +1,100 @@
+C:\Users\Nick\source\repos\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\prac 1-2.csproj.AssemblyReference.cache
+C:\Users\Nick\source\repos\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Nick\source\repos\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Nick\source\repos\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\prac 1-2_MarkupCompile.cache
+C:\Users\Nick\source\repos\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\prac 1-2_MarkupCompile.lref
+C:\Users\Nick\source\repos\prac 1-2\prac 1-2\bin\Debug\net6.0-windows\prac 1-2.exe
+C:\Users\Nick\source\repos\prac 1-2\prac 1-2\bin\Debug\net6.0-windows\prac 1-2.deps.json
+C:\Users\Nick\source\repos\prac 1-2\prac 1-2\bin\Debug\net6.0-windows\prac 1-2.runtimeconfig.json
+C:\Users\Nick\source\repos\prac 1-2\prac 1-2\bin\Debug\net6.0-windows\prac 1-2.dll
+C:\Users\Nick\source\repos\prac 1-2\prac 1-2\bin\Debug\net6.0-windows\prac 1-2.pdb
+C:\Users\Nick\source\repos\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Nick\source\repos\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\prac 1-2.g.resources
+C:\Users\Nick\source\repos\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\prac 1-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nick\source\repos\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\prac 1-2.AssemblyInfoInputs.cache
+C:\Users\Nick\source\repos\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\prac 1-2.AssemblyInfo.cs
+C:\Users\Nick\source\repos\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\prac 1-2.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\prac 1-2.dll
+C:\Users\Nick\source\repos\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\refint\prac 1-2.dll
+C:\Users\Nick\source\repos\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\prac 1-2.pdb
+C:\Users\Nick\source\repos\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\prac 1-2.genruntimeconfig.cache
+C:\Users\Nick\source\repos\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\ref\prac 1-2.dll
+C:\Users\Nick\source\repos\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\ProtectionMode.g.cs
+C:\Users\Nick\source\repos\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\StudyMode.g.cs
+C:\Users\Nick\source\repos\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\ProtectionMode.baml
+C:\Users\Nick\source\repos\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\StudyMode.baml
+C:\Users\Nick\Documents\GitHub\prac 1-2\prac 1-2\bin\Debug\net6.0-windows\prac 1-2.exe
+C:\Users\Nick\Documents\GitHub\prac 1-2\prac 1-2\bin\Debug\net6.0-windows\prac 1-2.deps.json
+C:\Users\Nick\Documents\GitHub\prac 1-2\prac 1-2\bin\Debug\net6.0-windows\prac 1-2.runtimeconfig.json
+C:\Users\Nick\Documents\GitHub\prac 1-2\prac 1-2\bin\Debug\net6.0-windows\prac 1-2.dll
+C:\Users\Nick\Documents\GitHub\prac 1-2\prac 1-2\bin\Debug\net6.0-windows\prac 1-2.pdb
+C:\Users\Nick\Documents\GitHub\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\prac 1-2.csproj.AssemblyReference.cache
+C:\Users\Nick\Documents\GitHub\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Nick\Documents\GitHub\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\ProtectionMode.g.cs
+C:\Users\Nick\Documents\GitHub\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\StudyMode.g.cs
+C:\Users\Nick\Documents\GitHub\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Nick\Documents\GitHub\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\prac 1-2_MarkupCompile.cache
+C:\Users\Nick\Documents\GitHub\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\prac 1-2_MarkupCompile.lref
+C:\Users\Nick\Documents\GitHub\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Nick\Documents\GitHub\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\ProtectionMode.baml
+C:\Users\Nick\Documents\GitHub\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\StudyMode.baml
+C:\Users\Nick\Documents\GitHub\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\prac 1-2.g.resources
+C:\Users\Nick\Documents\GitHub\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\prac 1-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nick\Documents\GitHub\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\prac 1-2.AssemblyInfoInputs.cache
+C:\Users\Nick\Documents\GitHub\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\prac 1-2.AssemblyInfo.cs
+C:\Users\Nick\Documents\GitHub\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\prac 1-2.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\GitHub\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\prac 1-2.dll
+C:\Users\Nick\Documents\GitHub\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\refint\prac 1-2.dll
+C:\Users\Nick\Documents\GitHub\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\prac 1-2.pdb
+C:\Users\Nick\Documents\GitHub\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\prac 1-2.genruntimeconfig.cache
+C:\Users\Nick\Documents\GitHub\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\ref\prac 1-2.dll
+C:\Users\JewOfTheSouthernSeas\Desktop\labs_kp-11_1_02-main\prac 1-2\prac 1-2\bin\Debug\net6.0-windows\prac 1-2.exe
+C:\Users\JewOfTheSouthernSeas\Desktop\labs_kp-11_1_02-main\prac 1-2\prac 1-2\bin\Debug\net6.0-windows\prac 1-2.deps.json
+C:\Users\JewOfTheSouthernSeas\Desktop\labs_kp-11_1_02-main\prac 1-2\prac 1-2\bin\Debug\net6.0-windows\prac 1-2.runtimeconfig.json
+C:\Users\JewOfTheSouthernSeas\Desktop\labs_kp-11_1_02-main\prac 1-2\prac 1-2\bin\Debug\net6.0-windows\prac 1-2.dll
+C:\Users\JewOfTheSouthernSeas\Desktop\labs_kp-11_1_02-main\prac 1-2\prac 1-2\bin\Debug\net6.0-windows\prac 1-2.pdb
+C:\Users\JewOfTheSouthernSeas\Desktop\labs_kp-11_1_02-main\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\prac 1-2.csproj.AssemblyReference.cache
+C:\Users\JewOfTheSouthernSeas\Desktop\labs_kp-11_1_02-main\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\JewOfTheSouthernSeas\Desktop\labs_kp-11_1_02-main\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\ProtectionMode.g.cs
+C:\Users\JewOfTheSouthernSeas\Desktop\labs_kp-11_1_02-main\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\StudyMode.g.cs
+C:\Users\JewOfTheSouthernSeas\Desktop\labs_kp-11_1_02-main\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\JewOfTheSouthernSeas\Desktop\labs_kp-11_1_02-main\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\prac 1-2_MarkupCompile.cache
+C:\Users\JewOfTheSouthernSeas\Desktop\labs_kp-11_1_02-main\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\prac 1-2_MarkupCompile.lref
+C:\Users\JewOfTheSouthernSeas\Desktop\labs_kp-11_1_02-main\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\JewOfTheSouthernSeas\Desktop\labs_kp-11_1_02-main\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\ProtectionMode.baml
+C:\Users\JewOfTheSouthernSeas\Desktop\labs_kp-11_1_02-main\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\StudyMode.baml
+C:\Users\JewOfTheSouthernSeas\Desktop\labs_kp-11_1_02-main\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\prac 1-2.g.resources
+C:\Users\JewOfTheSouthernSeas\Desktop\labs_kp-11_1_02-main\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\prac 1-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JewOfTheSouthernSeas\Desktop\labs_kp-11_1_02-main\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\prac 1-2.AssemblyInfoInputs.cache
+C:\Users\JewOfTheSouthernSeas\Desktop\labs_kp-11_1_02-main\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\prac 1-2.AssemblyInfo.cs
+C:\Users\JewOfTheSouthernSeas\Desktop\labs_kp-11_1_02-main\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\prac 1-2.csproj.CoreCompileInputs.cache
+C:\Users\JewOfTheSouthernSeas\Desktop\labs_kp-11_1_02-main\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\prac 1-2.dll
+C:\Users\JewOfTheSouthernSeas\Desktop\labs_kp-11_1_02-main\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\refint\prac 1-2.dll
+C:\Users\JewOfTheSouthernSeas\Desktop\labs_kp-11_1_02-main\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\prac 1-2.pdb
+C:\Users\JewOfTheSouthernSeas\Desktop\labs_kp-11_1_02-main\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\prac 1-2.genruntimeconfig.cache
+C:\Users\JewOfTheSouthernSeas\Desktop\labs_kp-11_1_02-main\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\ref\prac 1-2.dll
+D:\op git repos\prac 1-2\prac 1-2\bin\Debug\net6.0-windows\prac 1-2.exe
+D:\op git repos\prac 1-2\prac 1-2\bin\Debug\net6.0-windows\prac 1-2.deps.json
+D:\op git repos\prac 1-2\prac 1-2\bin\Debug\net6.0-windows\prac 1-2.runtimeconfig.json
+D:\op git repos\prac 1-2\prac 1-2\bin\Debug\net6.0-windows\prac 1-2.dll
+D:\op git repos\prac 1-2\prac 1-2\bin\Debug\net6.0-windows\prac 1-2.pdb
+D:\op git repos\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\prac 1-2.csproj.AssemblyReference.cache
+D:\op git repos\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\op git repos\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\ProtectionMode.g.cs
+D:\op git repos\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\StudyMode.g.cs
+D:\op git repos\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\App.g.cs
+D:\op git repos\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\prac 1-2_MarkupCompile.cache
+D:\op git repos\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\prac 1-2_MarkupCompile.lref
+D:\op git repos\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\MainWindow.baml
+D:\op git repos\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\ProtectionMode.baml
+D:\op git repos\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\StudyMode.baml
+D:\op git repos\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\prac 1-2.g.resources
+D:\op git repos\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\prac 1-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\op git repos\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\prac 1-2.AssemblyInfoInputs.cache
+D:\op git repos\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\prac 1-2.AssemblyInfo.cs
+D:\op git repos\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\prac 1-2.csproj.CoreCompileInputs.cache
+D:\op git repos\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\prac 1-2.dll
+D:\op git repos\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\refint\prac 1-2.dll
+D:\op git repos\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\prac 1-2.pdb
+D:\op git repos\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\prac 1-2.genruntimeconfig.cache
+D:\op git repos\prac 1-2\prac 1-2\obj\Debug\net6.0-windows\ref\prac 1-2.dll
