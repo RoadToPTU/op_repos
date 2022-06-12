@@ -105,3 +105,44 @@ C:\Users\JewOfTheSouthernSeas\Desktop\labs_kp-11_1_02-main\lab_1\lab_1\obj\Debug
 C:\Users\JewOfTheSouthernSeas\Desktop\labs_kp-11_1_02-main\lab_1\lab_1\obj\Debug\lab_1.csproj.GenerateResource.cache
 C:\Users\JewOfTheSouthernSeas\Desktop\labs_kp-11_1_02-main\lab_1\lab_1\obj\Debug\lab_1.csproj.CoreCompileInputs.cache
 C:\Users\JewOfTheSouthernSeas\Desktop\labs_kp-11_1_02-main\lab_1\lab_1\obj\Debug\lab_1.csproj.CopyComplete
+D:\op git repos\lab_1\lab_1\bin\Debug\lab_1.exe.config
+D:\op git repos\lab_1\lab_1\bin\Debug\lab_1.exe
+D:\op git repos\lab_1\lab_1\bin\Debug\lab_1.pdb
+D:\op git repos\lab_1\lab_1\bin\Debug\CsvHelper.dll
+D:\op git repos\lab_1\lab_1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\op git repos\lab_1\lab_1\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\op git repos\lab_1\lab_1\bin\Debug\System.Buffers.dll
+D:\op git repos\lab_1\lab_1\bin\Debug\System.Memory.dll
+D:\op git repos\lab_1\lab_1\bin\Debug\System.Numerics.Vectors.dll
+D:\op git repos\lab_1\lab_1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\op git repos\lab_1\lab_1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\op git repos\lab_1\lab_1\bin\Debug\CsvHelper.xml
+D:\op git repos\lab_1\lab_1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\op git repos\lab_1\lab_1\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\op git repos\lab_1\lab_1\bin\Debug\System.Buffers.xml
+D:\op git repos\lab_1\lab_1\bin\Debug\System.Memory.xml
+D:\op git repos\lab_1\lab_1\bin\Debug\System.Numerics.Vectors.xml
+D:\op git repos\lab_1\lab_1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\op git repos\lab_1\lab_1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\op git repos\lab_1\lab_1\obj\Debug\lab_1.csproj.AssemblyReference.cache
+D:\op git repos\lab_1\lab_1\obj\Debug\lab_1.csproj.SuggestedBindingRedirects.cache
+D:\op git repos\lab_1\lab_1\obj\Debug\About.g.cs
+D:\op git repos\lab_1\lab_1\obj\Debug\Calc.g.cs
+D:\op git repos\lab_1\lab_1\obj\Debug\Game.g.cs
+D:\op git repos\lab_1\lab_1\obj\Debug\DB.g.cs
+D:\op git repos\lab_1\lab_1\obj\Debug\MainWindow.g.cs
+D:\op git repos\lab_1\lab_1\obj\Debug\App.g.cs
+D:\op git repos\lab_1\lab_1\obj\Debug\lab_1_MarkupCompile.cache
+D:\op git repos\lab_1\lab_1\obj\Debug\lab_1_MarkupCompile.lref
+D:\op git repos\lab_1\lab_1\obj\Debug\About.baml
+D:\op git repos\lab_1\lab_1\obj\Debug\Calc.baml
+D:\op git repos\lab_1\lab_1\obj\Debug\Game.baml
+D:\op git repos\lab_1\lab_1\obj\Debug\DB.baml
+D:\op git repos\lab_1\lab_1\obj\Debug\MainWindow.baml
+D:\op git repos\lab_1\lab_1\obj\Debug\lab_1.g.resources
+D:\op git repos\lab_1\lab_1\obj\Debug\lab_1.Properties.Resources.resources
+D:\op git repos\lab_1\lab_1\obj\Debug\lab_1.csproj.GenerateResource.cache
+D:\op git repos\lab_1\lab_1\obj\Debug\lab_1.csproj.CoreCompileInputs.cache
+D:\op git repos\lab_1\lab_1\obj\Debug\lab_1.csproj.CopyComplete
+D:\op git repos\lab_1\lab_1\obj\Debug\lab_1.exe
+D:\op git repos\lab_1\lab_1\obj\Debug\lab_1.pdb
