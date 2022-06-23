@@ -460,11 +460,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\op git repos\\prac 5-6\\prac3\\prac3.csproj",
+      "projectUniqueName": "C:\\Users\\JewOfTheSouthernSeas\\Desktop\\op_repos-main\\prac 5-6\\prac3\\prac3.csproj",
       "projectName": "prac3",
-      "projectPath": "D:\\op git repos\\prac 5-6\\prac3\\prac3.csproj",
+      "projectPath": "C:\\Users\\JewOfTheSouthernSeas\\Desktop\\op_repos-main\\prac 5-6\\prac3\\prac3.csproj",
       "packagesPath": "C:\\Users\\JewOfTheSouthernSeas\\.nuget\\packages\\",
-      "outputPath": "D:\\op git repos\\prac 5-6\\prac3\\obj\\",
+      "outputPath": "C:\\Users\\JewOfTheSouthernSeas\\Desktop\\op_repos-main\\prac 5-6\\prac3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\vs2\\NuGetPackages"

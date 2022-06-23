@@ -181,7 +181,7 @@ namespace prac3 {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/prac3;component/userform.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/prac3;V1.0.0.0;component/userform.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\UserForm.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

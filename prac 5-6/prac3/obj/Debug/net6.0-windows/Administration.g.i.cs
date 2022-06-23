@@ -221,7 +221,7 @@ namespace prac3 {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/prac3;component/administration.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/prac3;V1.0.0.0;component/administration.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\Administration.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
