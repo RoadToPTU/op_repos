@@ -1,0 +1,23 @@
+﻿<Window x:Class="prac3.DodMozh"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:prac3"
+        mc:Ignorable="d"
+        Title="DodMozh" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="add_login1_Copy3" HorizontalAlignment="Left" Height="29" Margin="538,133,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="217" RenderTransformOrigin="0.291,0.659"/>
+        <DatePicker Height="26" HorizontalAlignment="Left" Margin="10,10,0,0" x:Name="datePicker5_Copy" VerticalAlignment="Top" Width="114" />
+        <Label Content="Хто з викладачів може читати зазначену дисципліну" HorizontalAlignment="Left" Margin="490,102,0,0" VerticalAlignment="Top"/>
+        <DataGrid x:Name="UsersLogins" Margin="10,123,503,10" />
+        <Button x:Name="login_butt" Content="Список співробітників, які перебувають у відпустці у певний час" HorizontalAlignment="Left" Margin="4,41,0,0" VerticalAlignment="Top" Height="24" Width="365" Click="login_butt_Click"/>
+        <Button Content="Закрити вікно" HorizontalAlignment="Left" Height="30" Margin="538,375,0,0" VerticalAlignment="Top" Width="252" Click="Button_Click"/>
+        <Button x:Name="login_butt_Copy" Content="Список викладачів, у яких закінчився термін контракту" HorizontalAlignment="Left" Margin="390,41,0,0" VerticalAlignment="Top" Height="24" Width="365" Click="login_butt_Click1"/>
+        <Button x:Name="login_butt_Copy1" Content="Список співробітників, нагороджених медаллю «За оборону Ленінграда»" HorizontalAlignment="Left" Margin="10,82,0,0" VerticalAlignment="Top" Height="24" Width="412" Click="login_butt_Click2"/>
+        <Button x:Name="login_butt_Copy2" Content="Знайти" HorizontalAlignment="Left" Margin="562,178,0,0" VerticalAlignment="Top" Height="24" Width="116" Click="login_butt_Click3"/>
+        <Label Content="Хто із співробітників працює довше за вказану кiлькiсть рокiв" HorizontalAlignment="Left" Margin="320,217,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="add_login1_Copy" HorizontalAlignment="Left" Height="26" Margin="356,248,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="44" RenderTransformOrigin="0.291,0.659"/>
+        <Button x:Name="login_butt_Copy3" Content="Знайти" HorizontalAlignment="Left" Margin="320,279,0,0" VerticalAlignment="Top" Height="24" Width="116" Click="login_butt_Click4"/>
+    </Grid>
+</Window>
